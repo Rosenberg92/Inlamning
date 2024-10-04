@@ -1,7 +1,7 @@
 
 public class Cactus extends Plants {
 
-    private static final double fluidNeeded = 0.2;
+    private static final double fluidNeeded = 0.02;
 
     public Cactus(double height, String name) {
         super(height, name);
